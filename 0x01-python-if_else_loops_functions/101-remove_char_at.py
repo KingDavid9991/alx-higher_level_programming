@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Olukoya Oluwaseyi
+# Author - Egar King David
 
 def remove_char_at(str, n):
     v = ""
